@@ -1,0 +1,95 @@
+/* Dark Theme Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    background-color: #121212;
+    color: #ffffff;
+    margin: 0;
+    padding: 0;
+    
+    /* Background Image (Uncomment if bg.png is available) */
+    /* background: url('bg.png') no-repeat center center/cover; */
+}
+
+/* Header Styling */
+header {
+    background: linear-gradient(135deg, #1E90FF, #9400D3);
+    padding: 20px;
+    font-size: 24px;
+    font-weight: bold;
+    text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.3);
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.3);
+}
+
+/* Section Styling */
+section {
+    background: rgba(255, 255, 255, 0.1);
+    margin: 20px auto;
+    padding: 20px;
+    width: 80%;
+    max-width: 600px;
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+    box-shadow: 0px 0px 20px rgba(255, 255, 255, 0.1);
+    transition: transform 0.3s ease-in-out;
+}
+
+section:hover {
+    transform: scale(1.02);
+}
+
+/* Text Areas & Input Fields */
+textarea, input {
+    width: 90%;
+    padding: 12px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 8px;
+    background-color: #222;
+    color: white;
+    font-size: 16px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+    transition: 0.3s;
+}
+
+textarea:focus, input:focus {
+    outline: none;
+    border: 2px solid #1E90FF;
+    box-shadow: 0px 0px 15px rgba(30, 144, 255, 0.7);
+}
+
+/* Buttons */
+button {
+    margin-top: 15px;
+    padding: 12px 18px;
+    border: none;
+    background: linear-gradient(135deg, #1E90FF, #9400D3);
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 8px;
+    transition: all 0.3s ease-in-out;
+    box-shadow: 0px 4px 15px rgba(30, 144, 255, 0.3);
+}
+
+button:hover {
+    background: linear-gradient(135deg, #9400D3, #1E90FF);
+    transform: scale(1.05);
+    box-shadow: 0px 0px 20px rgba(30, 144, 255, 0.7);
+}
+
+/* Chatbot Response Styling */
+#chat-response, #grade-result, #feedback-result {
+    font-size: 18px;
+    margin-top: 15px;
+    font-weight: bold;
+    color: #1E90FF;
+    text-shadow: 2px 2px 5px rgba(30, 144, 255, 0.5);
+}
+
+/* Responsive Design */
+@media (max-width: 600px) {
+    section {
+        width: 90%;
+    }
+}
