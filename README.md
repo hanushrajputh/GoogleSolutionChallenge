@@ -103,8 +103,8 @@ Teaching is **more than just grading papers**—educators need to provide **pers
 ## **👥 Team Members**  
 
 👨‍💻 **Hanush Singh Rajputh**   
-👨‍💻 **Tanisha Priya** 
-👩‍💻 **Mischell**  
+👨‍💻 **Tanisha Priya**   
+👩‍💻 **Mischell**   
 👨‍💻 **Tarun**  
 
 ---
