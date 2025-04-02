@@ -1,1 +1,41 @@
-a
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI-Powered Teacher Assistance Tool</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <h1>AI-Powered Teacher Assistance Tool</h1>
+    </header>
+
+    <section id="grading">
+        <h2>AI Grading System</h2>
+        <textarea id="student-answer" placeholder="Paste student response here..."></textarea>
+        <button onclick="gradeAssignment()">Grade Now</button>
+        <p id="grade-result"></p>
+    </section>
+
+    <section id="feedback">
+        <h2>Personalized Feedback</h2>
+        <button onclick="generateFeedback()">Get Feedback</button>
+        <p id="feedback-result"></p>
+    </section>
+
+    <section id="chatbot">
+        <h2>AI Chatbot for Queries</h2>
+        <input type="text" id="chat-input" placeholder="Ask a question...">
+        <button onclick="askChatbot()">Ask</button>
+        <p id="chat-response"></p>
+    </section>
+
+    <script src="script.js"></script>
+    <script src="grading.js"></script>
+    <script src="feedback.js"></script>
+    <script src="ai-assistant.js"></script>
+
+</body>
+</html>
