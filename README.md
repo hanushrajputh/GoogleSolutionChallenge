@@ -1,11 +1,4 @@
-# **🚀 README.md for AI-Powered Teacher Assistance Tool**  
-
-This **README** is designed to be **detailed, professional, and engaging**, covering all required aspects of your submission. It ensures **maximum clarity** for reviewers.  
-
----
-
 ## **📌 AI-Powered Teacher Assistance Tool**  
-
 **Empowering Educators with AI to Save Time & Improve Learning Outcomes**  
 
 ![image](https://github.com/user-attachments/assets/8d49831d-be18-444f-be2a-7aab5dd7af8a)
