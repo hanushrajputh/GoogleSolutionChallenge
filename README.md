@@ -92,11 +92,10 @@ Teaching is **more than just grading papers**—educators need to provide **pers
 
 ```
 📁 AI-Powered-Teacher-Assistant
- ├── 📜 index.html      # Main UI
- ├── 🎨 styles.css      # Enhanced Dark UI & Animations
- ├── ⚡ script.js       # Core functionality & AI integration
- ├── 📄 README.md       # Project documentation
- ├── 🖼️ bg.png         # Background image (optional)
+ ├──  index.html      # Main UI
+ ├──  styles.css      # Enhanced Dark UI & Animations
+ ├──  script.js       # Core functionality & AI integration
+ ├──  README.md       # Project documentation
 ```
 
 ---
