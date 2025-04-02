@@ -103,10 +103,10 @@ Teaching is **more than just grading papers**—educators need to provide **pers
 
 ## **👥 Team Members**  
 
-👨‍💻 **Hanush Singh Rajputh** – AI & Backend  
-👨‍💻 **Member 2** – Frontend Development  
-👩‍💻 **Member 3** – UI/UX & Animations  
-👨‍💻 **Member 4** – Documentation & Testing  
+👨‍💻 **Hanush Singh Rajputh**   
+👨‍💻 **Tanisha Priya** 
+👩‍💻 **Mischell**  
+👨‍💻 **Tarun**  
 
 *(Add actual names & roles)*  
 
@@ -124,8 +124,7 @@ Teaching is **more than just grading papers**—educators need to provide **pers
 
 This project is **open-source** under the **MIT License**. Feel free to contribute, modify, and improve!  
 
-📌 **GitHub Repository:** [GitHub Link](https://github.com/yourrepo) *(Replace with actual repo link)*  
+📌 **GitHub Repository:** [GitHub Link](https://github.com/hanushrajputh/GoogleSolutionChallenge) 
 
 ---
 
-This **README** is **optimized** for clarity, **maximizes impact**, and ensures **judges understand everything instantly.** 🚀 Let me know if you need any tweaks! 🎯
