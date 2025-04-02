@@ -39,7 +39,7 @@ Teaching is **more than just grading papers**—educators need to provide **pers
 
 ## **🎥 Live Demo & Video**  
 
-🔗 **Live Demo:** [AI-Powered Teacher Assistance Tool](https://yourproject.github.io/)
+🔗 **Live Demo:** [AI-Powered Teacher Assistance Tool](https://hanushrajputh.github.io/GoogleSolutionChallenge/)
 📽️ **Demo Video:** [Watch on YouTube](https://youtu.be/demo_video_link)   
 
 ---
