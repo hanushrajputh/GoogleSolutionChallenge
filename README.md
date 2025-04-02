@@ -107,8 +107,6 @@ Teaching is **more than just grading papers**—educators need to provide **pers
 👩‍💻 **Mischell**  
 👨‍💻 **Tarun**  
 
-*(Add actual names & roles)*  
-
 ---
 
 ## **📝 Future Improvements**  
