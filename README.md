@@ -104,8 +104,8 @@ Teaching is **more than just grading papers**—educators need to provide **pers
 
 👨‍💻 **Hanush Singh Rajputh**   
 👨‍💻 **Tanisha Priya**   
-👩‍💻 **Michelle**   
-👨‍💻 **Tarun**  
+👩‍💻 **Michelle Wilson**   
+👨‍💻 **Tarun Sitaraman**  
 
 ---
 
